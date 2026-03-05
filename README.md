@@ -3,14 +3,13 @@ Kwangwoon University Information Convergence Students<br>
 
 # 🚀 방구석 인프라 랩실에서 세상으로, 백엔드 엔지니어 김우현
 
-하드웨어의 밑바닥부터 서버 인프라, 그리고 웹 서비스까지 시스템 생태계 전반을 꿰뚫어 보는 정보융합학도입니다. 
+하드웨어의 밑바닥부터 서버 인프라, 그리고 웹 서비스까지 시스템 생태계 전반을 꿰뚫어 보고 싶은 정보융합학도입니다. 
 단순히 코드를 짜는 것을 넘어 OS 커스텀, 가상화 환경(VM) 아키텍처 구축, 로컬 AI 모델 서빙 등 시스템 리소스를 최적화하고 아키텍처를 설계하는 과정을 즐깁니다.
 
 ## 🛠️ Tech Stack & Infrastructure
 * **Backend:** Python, FastAPI, TypeScript, Kotlin
 * **Infrastructure & DevOps:** Linux, Docker, Proxmox VE, Xpenology(NAS)
 * **Hardware Setup:** * Proxmox 기반 홈 서버 및 개인 NAS 직접 구축 및 운영
-  * 로컬 AI/LLM 구동을 위한 듀얼 GPU(RTX 3080 + RTX 5060 Ti) 환경 세팅 및 최적화
 
 <br>
 
