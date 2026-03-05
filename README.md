@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kwangwoon University Information Convergence<br>Sleeply bedroom<br>stand with bedroom<br>sleeping well<br>sleeping<br>Really sleep well.
+Kwangwoon University Information Convergence Students<br>
 
 
 ## 🌐 Socials:
